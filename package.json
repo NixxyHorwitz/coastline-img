@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "name": "coastline-img",
+  "description": "This package only for coastline developer ( nixxy )",
+  "version": "0.0.2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NixxyHorwitz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NixxyHorwitz/coastline-img.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NixxyHorwitz/coastline-img/issues"
+  },
+  "homepage": "https://github.com/NixxyHorwitz/coastline-img#readme"
+}
